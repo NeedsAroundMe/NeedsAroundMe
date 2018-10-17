@@ -1,6 +1,21 @@
-## MERN App Boilerplate
+## SHINY Stars
+Shelters In Need - You are the Stars
 
-A nice boilerplate with pre-configured scripts and nodemon to make development and deployment easy.
+This app is for the all the non profit organizations with shelters and for everyone who can help any needs posted by these organizations. 
+The organizations will create their profile and add the needs/ necessities for their people. Anyone around the world can see the charities or organizations nearby their location and help.
+
+## Environment: 
+
+* Heroku
+* NodeJS
+* ExpressJS
+* ReactJS
+* MongoDB
+* Mongoose
+* PassportJS
+* Nodemailer
+* Bootstrap CSS
+* Sweet Alerts CSS
 
 File structure overview:
 - client: contains your React front-end.
